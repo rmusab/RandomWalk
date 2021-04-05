@@ -1,0 +1,3 @@
+install freeglut3 along with freeglut3-dev
+OpenGL comes preinstalled with NVIDIA drivers
+g++ main.cpp -lGL -lGLU -lglut -o main -std=gnu++11

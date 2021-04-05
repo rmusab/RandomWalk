@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1464327936 source:/home/ravil/Workspace/Seminar/main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<random>
+	<cstring>
+
